@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "className":"fa-solid fa-brain-circuit",
+            "title": "Cancer Prediction",
+            "url": "/prediction/cancer",
+            "src": "/src/assets/Images/cancer.png"
+        },
+        {
+            "className":"fa-solid fa-brain-circuit",
+            "title": "Brain Tumer Prediction",
+            "url": "/prediction/braintumor",
+            "src": "/src/assets/Images/brainTumor.png"
+        },
+        {
+            "className":"fa-solid fa-brain-circuit",
+            "title": "Carcinoma Prediction",
+            "url": "/prediction/carcinoma",
+            "src": "/src/assets/Images/ct-scan.png"
+            
+        },
+        {
+            "className":"fa-solid fa-brain-circuit",
+            "title": "Pneumonia Prediction",
+            "url": "/prediction/pneumonia",
+            "src": "/src/assets/Images/pnumonia.png"
+        },
+        {
+            "className":"fa-solid fa-brain-circuit",
+            "title": "General Chat",
+            "url":"general/chat"
+        }
+    ]
+}
